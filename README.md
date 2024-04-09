@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-I'm Aviral Soni, a Computer Science undergraduate. I'm passionate about Machine Learning and Data Science. Wih hands-on experience in building ML models, I thrive on collaboration and continous learning. Let's connect and build something awesome together!🚀
+I'm Aviral Soni, a Computer Science undergraduate. I'm passionate about Machine Learning and Data Science. With hands-on experience in building Machine Learning models, I thrive on collaboration and continous learning. Let's connect and build something awesome together!🚀
 
 <!--
 **aviralsoni22/aviralsoni22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
