@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aviral Soni!</h1>
 <h3 align="center">I'm a Computer Science undergraduate. I'm passionate about Machine Learning and Data Science. With hands-on experience in building Machine Learning models, I thrive on collaboration and continous learning. Let's connect and build something awesome together!🚀</h3>
+![cat_coder](https://github.com/aviralsoni22/aviralsoni22/assets/132761518/94c162e0-c587-4816-a855-80c68139c8d6)
 
 - 👨‍💻 All of my projects are available at [github.com/aviralsoni22](github.com/aviralsoni22)
 
