@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/aviralsoni22](github.com/aviralsoni22)
 
-- 💬 Ask me about **Data Science & Machine Learning**
+- 💬 Ask me about **GenAI, Data Science & Machine Learning**
 
 - 📫 How to reach me **aviralsoni22@gmail.com**
 
