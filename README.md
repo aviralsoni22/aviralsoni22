@@ -1,32 +1,72 @@
-<h1 align="center">👋 Hi, I'm Aviral Soni!</h1>
-<h3 align="center">I'm a Computer Science and Engineering undergraduate. I'm passionate about Machine Learning and Data Science. With hands-on experience in building Machine Learning models, I thrive on collaboration and continous learning. Let's connect and build something awesome together!🚀</h3>
+<h1 align="center">Hey 👋 I'm Aviral Soni and I am an AI Engineer from India</h1>
 
-- 👨‍💻 All of my projects are available at [github.com/aviralsoni22](github.com/aviralsoni22)
+###
 
-- 💬 Ask me about **GenAI, Data Science & Machine Learning**
+<p align="left">I’m a B.Tech CSE graduate from VIT Vellore, India and I work closely with Agentic AI systems.<br><br>I like building AI agents that can actually think through tasks by breaking problems down, using tools when needed and getting things done end to end instead of just responding to prompts.<br><br>I’ve built practical Agentic AI systems using CrewAI where I spend a lot of time thinking about agent roles, task flow, tool calling and how to keep the system’s behavior predictable.<br><br>What I enjoy most is the messy part debugging agent behavior, reducing hallucinations and turning rough ideas into systems that are reliable and understandable.</p>
 
-- 📫 How to reach me **aviralsoni22@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aviralsoni22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aviralsoni22" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aviralsoni22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aviralsoni22/" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img height="200" src="https://media.tenor.com/nxKfohkvYrIAAAAM/computer-cat.gif"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+###
 
-<!--
-**aviralsoni22/aviralsoni22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">My Stack</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="60" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cassandra" height="60" alt="apachecassandra logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">Socials</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aviralsoni22/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/aviralsoni22" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+###
