@@ -5,7 +5,7 @@
 <p align="left">
 I’m a B.Tech CSE graduate from VIT Vellore, India, working closely with Agentic AI systems.<br><br>
 I build AI agents that reason through tasks, breaking problems down, using tools when needed and completing workflows end to end instead of just responding to prompts.<br><br>
-I’ve built practical Agentic AI systems using CrewAI where I focus heavily on agent roles, task flow, tool calling and keeping system behavior predictable under real-world constraints.<br><br>
+I’ve built practical Agentic AI systems using LangChain, LangGraph and CrewAI where I focus heavily on agent roles, task flow, tool calling and keeping system behavior predictable under real-world constraints.<br><br>
 What I enjoy most is the messy part: debugging agent behavior, reducing hallucinations and turning rough ideas into systems that are reliable and understandable.
 </p>
 
@@ -19,6 +19,9 @@ What I enjoy most is the messy part: debugging agent behavior, reducing hallucin
 
 <h2 align="left">Featured Projects</h2>
 
+**🧪 CausalAgent** A LangGraph state machine that turns plain-English "did X cause Y?" questions into runnable causal-inference models, executing the stats as sandboxed R scripts inside Docker. It estimates effects from real-world observational data using propensity-score matching and confounder adjustment. The LLM writes the code, never the numbers, so every result traces back to real computation instead of a hallucinated estimate.
+🔗 https://github.com/aviralsoni22/CausalAgent
+ 
 **🧠 Agentic Travel Planner** Multi-agent system that plans trips end to end using task decomposition, tool calling and fallback handling. Built to stay predictable under partial failures and API errors.  
 🔗 https://github.com/aviralsoni22/Agentic-Travel-Planner
 
